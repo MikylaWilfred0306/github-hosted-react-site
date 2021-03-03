@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MikylaWilfred0306.github.io/hosted-site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/MikylaWilfred0306.github.io/hosted-site/static/js/main.003ce8c3.chunk.js",
+    "main.js.map": "/MikylaWilfred0306.github.io/hosted-site/static/js/main.003ce8c3.chunk.js.map",
+    "runtime-main.js": "/MikylaWilfred0306.github.io/hosted-site/static/js/runtime-main.2b157fb3.js",
+    "runtime-main.js.map": "/MikylaWilfred0306.github.io/hosted-site/static/js/runtime-main.2b157fb3.js.map",
+    "static/js/2.3bcbfcb7.chunk.js": "/MikylaWilfred0306.github.io/hosted-site/static/js/2.3bcbfcb7.chunk.js",
+    "static/js/2.3bcbfcb7.chunk.js.map": "/MikylaWilfred0306.github.io/hosted-site/static/js/2.3bcbfcb7.chunk.js.map",
+    "static/js/3.e930d6d6.chunk.js": "/MikylaWilfred0306.github.io/hosted-site/static/js/3.e930d6d6.chunk.js",
+    "static/js/3.e930d6d6.chunk.js.map": "/MikylaWilfred0306.github.io/hosted-site/static/js/3.e930d6d6.chunk.js.map",
+    "index.html": "/MikylaWilfred0306.github.io/hosted-site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/MikylaWilfred0306.github.io/hosted-site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3bcbfcb7.chunk.js.LICENSE.txt": "/MikylaWilfred0306.github.io/hosted-site/static/js/2.3bcbfcb7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MikylaWilfred0306.github.io/hosted-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b157fb3.js",
+    "static/js/2.3bcbfcb7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.003ce8c3.chunk.js"
+  ]
+}
